@@ -1,5 +1,5 @@
 // ข้อความที่ต้องการเช็ค
-let targetWords = ['Fiffy has been behaving strangely recently.','You need to make him feel happier.','I go to the chic and expensive places.','I hope it’s not too bright and ornate.','I really want the dress.','I exercise at the gym regularly.'];
+let targetWords = ['Fiffy has been behaving strangely recently.','You need to make him feel happier.','I go to the chic and expensive places.','I hope it\'s not too bright and ornate.','I really want the dress.','I exercise at the gym regularly.'];
 
 // ฟังก์ชั่นเพื่อสุ่มคลิกและเช็คคำ
 function checkAndRefresh(index) {
